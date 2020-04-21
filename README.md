@@ -11,8 +11,8 @@ advancement in attacker’s capabilities to perform password cracking.Our sugges
 ````
 ## How to run
 ```
-- Run the wamp server then click on the localhost 
-- Click on register to register yourself so that honeywords can be created 
+* Run the wamp server then click on the localhost 
+* Click on register to register yourself so that honeywords can be created 
 ```
 ## Contributor 
 [Purushotham Reddy V](https://github.com/purushothamreddyv)
